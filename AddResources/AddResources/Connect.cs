@@ -125,7 +125,7 @@ namespace AddResources
 			{
 				if(commandName == "AddResources.Connect.AddResources")
 				{
-          MessageBox.Show("aaaaa");
+          MessageBox.Show("aaaaa   ala bala portocalaaaaaaaaaaaaaaaaaa");
 					handled = true;
 					return;
 				}
